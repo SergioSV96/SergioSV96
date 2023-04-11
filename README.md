@@ -7,7 +7,7 @@ I'm Sergio Sánchez Vallés, a software engineer with a passion for data science
 I have a versatile skill set, including proficiency in:
 
 - 💻 Programming languages: Python, SQL, Java, C++, C, JavaScript, etc.
-- 🤖 Machine learning frameworks: Scikit-learn, Keras, TensorFlow, PyTorch, etc.
+- 🤖 Machine learning frameworks: Scikit-learn, Keras, TensorFlow, PyTorch, Pandas, etc.
 - 📊 Big data technologies: PostgreSQL, MariaDB, Elasticsearch, etc.
 - 🐳 Tools and platforms: Linux, Docker, Kubernetes, etc.
 - 📈 Methodologies: Agile, Scrum, Lean, DevOps, etc.
